@@ -54,7 +54,7 @@
 
 | Project | Tech | Description |
 |--------|------|-------------|
-| 🛒 **3D eCommerce Website** | React, Three.js, GSAP, Tailwind | Immersive shopping experience with scroll-based animations & 3D models |
+| 🛒 **3D eCommerce Website** | React, Three.js, GSAP, Tailwind, Redux ,Jest ,Tanstack query, Zusstand | Immersive shopping experience with scroll-based animations & 3D models |
 | 🤖 **AI UI Assistant (WIP)**(coming soon) | React, Vite, Tailwind, OpenAI API | A smart interface builder that generates components & themes via AI | 
 
 
