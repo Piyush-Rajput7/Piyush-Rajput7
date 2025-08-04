@@ -13,12 +13,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,tailwind,git,github,vscode,figma" />
 </p>
 
-<h1 align="center">Hey there! 👋 I'm Piyush</h1>
-<h3 align="center">Frontend Developer | 3D Web Explorer | React & Three.js Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2AFFD6&center=true&vCenter=true&width=800&lines=🚀+Building+Immersive+3D+Websites;🎯+Crafting+Modern+UI+with+React+%26+GSAP;🤝+Open+to+Collaboration+%26+AI+Projects" alt="Typing SVG" />
-</p>
 
 ---
 
