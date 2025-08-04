@@ -1,17 +1,12 @@
-<!-- 🌊 Capsule Header -->
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=0EF6CC&height=260&section=header&text=Hey%20I'm%20Piyush%20🚀&fontSize=35&fontColor=0d1117&animation=fadeIn" 
-/>
-
-<!-- ⌨️ Typing Animation -->
+<!-- Header Banner -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&color=00FFD5&multiline=true&center=true&vCenter=true&lines=Frontend+Developer+%7C+React+%2B+Three.js+Specialist;Building+Immersive+3D+Web+Experiences;Open+to+Collaboration+and+Real+Projects" 
-    alt="Typing SVG"
-/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16e2e2,100:3288e6&height=200&section=header&text=Hey%20I'm%20Piyush%20🚀&fontSize=35&fontColor=ffffff" />
 </p>
 
-<br />
+<!-- Typing Animation (single line, clearly visible) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&color=7FFFD4&width=435&lines=Frontend+Dev+%7C+React+%2B+Three.js+%7C+3D+Web+Experiences" alt="Typing SVG" />
+</p>
 
 <br/>
 
