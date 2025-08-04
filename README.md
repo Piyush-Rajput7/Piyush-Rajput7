@@ -1,14 +1,17 @@
-<!-- 🌟 Capsule Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EF6CC&height=200&section=header&text=Hey%20I'm%20Piyush%20🚀&fontSize=35&fontColor=0d1117&animation=fadeIn" />
-</p>
-
-<br/>
+<!-- 🌊 Capsule Header -->
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0EF6CC&height=260&section=header&text=Hey%20I'm%20Piyush%20🚀&fontSize=35&fontColor=0d1117&animation=fadeIn" 
+/>
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5EFFC8&center=true&vCenter=true&multiline=true&lines=Frontend+Developer+%7C+React+%2B+Three.js+Specialist;Building+Immersive+3D+Web+Experiences;Open+to+Collaboration+%26+Dev+Squads" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=500&color=00FFD5&multiline=true&center=true&vCenter=true&lines=Frontend+Developer+%7C+React+%2B+Three.js+Specialist;Building+Immersive+3D+Web+Experiences;Open+to+Collaboration+and+Real+Projects" 
+    alt="Typing SVG"
+/>
 </p>
+
+<br />
 
 <br/>
 
