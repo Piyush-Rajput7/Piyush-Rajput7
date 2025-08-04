@@ -5,8 +5,9 @@
 
 <!-- Typing Animation (single line, clearly visible) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&center=true&vCenter=true&color=7FFFD4&width=435&lines=Frontend+Dev+%7C+React+%2B+Three.js+%7C+3D+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer+%7C+React+Developer+%7C+Immersive+3D+Web+Experiences" alt="Typing SVG" />
 </p>
+
 
 <br/>
 
