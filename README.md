@@ -5,7 +5,7 @@
 
 <!-- Typing Animation (single line, clearly visible) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer+Immersive+3D+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer+||Immersive+3D+Web+Experiences" alt="Typing SVG" />
 </p>
 
 
