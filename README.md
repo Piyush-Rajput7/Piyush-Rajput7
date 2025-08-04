@@ -1,3 +1,18 @@
+<!-- 🌟 Capsule Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EF6CC&height=200&section=header&text=Hey%20I'm%20Piyush%20🚀&fontSize=35&fontColor=0d1117&animation=fadeIn" />
+</p>
+
+<!-- ⌨️ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=5EFFC8&center=true&vCenter=true&multiline=true&lines=Frontend+Developer+%7C+React+%2B+Three.js+Specialist;Building+Immersive+3D+Web+Experiences;Open+to+Collaboration+and+Dev+Squads" />
+</p>
+
+<!-- 🛠️ Tech Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,tailwind,git,github,vscode,figma" />
+</p>
+
 <h1 align="center">Hey there! 👋 I'm Piyush</h1>
 <h3 align="center">Frontend Developer | 3D Web Explorer | React & Three.js Enthusiast</h3>
 
