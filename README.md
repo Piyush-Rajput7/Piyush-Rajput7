@@ -24,7 +24,8 @@
 - 🌱 Learning Backend, AI, advanced animation patterns, DevOps, and CI/CD pipelines  
 - 💬 I love clean UI, smooth UX, and micro-interactions  
 - 🤝 Open to remote collaboration, dev squads & real-world builds  
-- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/piyush-patil-7a2a261b9/) • [Twitter](https://x.com/Piyushrajput710) • [Email](piyushrajput710@gmail.com) • [Portfolio](https://piyushrajput-portfolio.netlify.app/)
+- 📫 Connect: [LinkedIn](https://www.linkedin.com/in/piyush-patil-7a2a261b9/) • [Twitter](https://x.com/Piyushrajput710) • [Email](piyushrajput710@gmail.com) •
+- [Portfolio](https://piyushrajput-portfolio.netlify.app/)
 
 ---
 
